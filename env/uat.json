@@ -1,0 +1,8 @@
+{
+  "APP_NAME": "ITE Store Test",
+  "APP_LOGO": "assets/images/uat.jpg",
+  "BASE_URL": "https://smlp-pub.s3.ap-southeast-1.amazonaws.com/ite-store/uat",
+  "FLAVOR": "uat",
+  "DEMO_MODE": "false",
+  "ENABLE_LOGGING": "true"
+}
